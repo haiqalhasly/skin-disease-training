@@ -13,6 +13,7 @@ Here's what I have achieved :
 
 Below is a sample prediction
 
+![acne](images/acne.png)
 <img src ="C:/Users/Administrator/Desktop/YOLO/images/acne.png" width="400"/>
 <img src ="C:/Users/Administrator/Desktop/YOLO/images/basalCellCarcinoma.png" width="400"/>
 <img src ="C:/Users/Administrator/Desktop/YOLO/images/eczema.png" width="400"/>

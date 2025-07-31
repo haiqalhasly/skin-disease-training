@@ -1,0 +1,4 @@
+#Ignore dataset folder
+data/
+#Ignore virtual environment
+.venv/

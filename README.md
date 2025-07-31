@@ -9,3 +9,13 @@ Here's what I have achieved :
   * Train machine learning model using 1000+ image datasets to achieve accuracy
   * How to setup environment for machine learning in VSCode
 
+## Model Output Example
+
+Below is a sample prediction
+
+<img src ="C:/Users/Administrator/Desktop/YOLO/images/acne.png" width="400">
+<img src ="C:/Users/Administrator/Desktop/YOLO/images/basalCellCarcinoma.png" width="400">
+<img src ="C:/Users/Administrator/Desktop/YOLO/images/eczema.png" width="400">
+<img src ="C:/Users/Administrator/Desktop/YOLO/images/virtiligo.png" width="400">
+<img src ="C:/Users/Administrator/Desktop/YOLO/images/warts.png" width="400">
+

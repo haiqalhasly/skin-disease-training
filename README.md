@@ -14,9 +14,14 @@ Here's what I have achieved :
 Below is a sample prediction
 
 ![acne](images/acne.png)
-<img src ="C:/Users/Administrator/Desktop/YOLO/images/acne.png" width="400"/>
-<img src ="C:/Users/Administrator/Desktop/YOLO/images/basalCellCarcinoma.png" width="400"/>
-<img src ="C:/Users/Administrator/Desktop/YOLO/images/eczema.png" width="400"/>
-<img src ="C:/Users/Administrator/Desktop/YOLO/images/virtiligo.png" width="400"/>
-<img src ="C:/Users/Administrator/Desktop/YOLO/images/warts.png" width="400"/>
+![basalcell](images/basalCellCarcinoma.png)
+![eczema](images/eczema.png)
+![virtiligo](images/virtiligo.png)
+![warts](images/warts.png)
+
+<img src ="images/acne.png" width="400"/>
+<img src ="images/basalCellCarcinoma.png" width="400"/>
+<img src ="images/eczema.png" width="400"/>
+<img src ="images/virtiligo.png" width="400"/>
+<img src ="images/warts.png" width="400"/>
 

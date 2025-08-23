@@ -3,13 +3,6 @@ import cv2
 import numpy as np
 
 model = YOLO("C:/Users/Administrator/Desktop/YOLO/model/skindisease_model.pt") # import AI model
-#C:/Users/Administrator/Desktop/YOLO/model/skindisease_model.pt
-#C:/Users/Administrator/Desktop/YOLO/model/acneModel.pt
-#C:/Users/Administrator/Desktop/YOLO/model/maskModel.pt
-#C:/Users/Administrator/Desktop/YOLO/model/fatModel.pt
-#
-
-
 cap = cv2.VideoCapture(0) # import camera
 
 while True:

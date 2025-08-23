@@ -32,7 +32,7 @@ This is the model that I have trained in this program
 1. Clone the repository (in the terminal of your ide)
 
 ```py
-git clone https://github.com/haiqalhasly/github-api-cli.git
+https://github.com/haiqalhasly/skin-disease-training.git
 ```
 3. Create a virtual environment
 
